@@ -1,4 +1,4 @@
-# OverFitting
+# Analysis of Model Overfitting
 In this project we will see the
 
 - Analysis of Test Error (RMSE) for increase in Sample Size.
