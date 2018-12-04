@@ -3,7 +3,7 @@
 library(ggplot2)
 
 #============================================================================================================
-#OBJECTIVE: Analysis of Test Error (RSS) for increase in Sample Size - Polynomial Regression of order 7 and 9
+#OBJECTIVE: Analysis of Test Error (RMSE) for increase in Sample Size - Polynomial Regression of order 7 and 9
 #============================================================================================================
 
 ## DATA
