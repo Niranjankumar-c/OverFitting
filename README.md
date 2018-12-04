@@ -1,5 +1,8 @@
 # OverFitting
+In this project we will see the
 
+- Analysis of Test Error (RMSE) for increase in Sample Size.
+- Analysis of Model overfitting due to increase in model complexity.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
